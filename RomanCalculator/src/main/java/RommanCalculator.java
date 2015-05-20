@@ -1,5 +1,5 @@
 /**
- * Created by macbook on 5/19/15.
+ * Created by Dojo on 5/19/15.
  */
 public class RommanCalculator {
     public String sum(String var1, String var2) {
